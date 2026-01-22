@@ -76,7 +76,7 @@
     "is-cidr": "^4.0.2",
     "json-parse-even-better-errors": "^3.0.0",
     "libnpmaccess": "^7.0.2",
-    "libnpmdiff": "^5.0.16",
+    "libnpmdiff": "^8.0.8",
     "libnpmexec": "^5.0.16",
     "libnpmfund": "^4.0.16",
     "libnpmhook": "^9.0.3",
